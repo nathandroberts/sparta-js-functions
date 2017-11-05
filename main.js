@@ -39,5 +39,3 @@
 // var answer1 = addNumbers(1,3);
 // debugger;
 // console.log(answer1);
-
-var 
